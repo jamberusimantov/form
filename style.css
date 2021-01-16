@@ -28,3 +28,9 @@
     width: 50%;
     margin: 1vh auto;
 }
+
+#resetBtn {
+    height: 45px;
+    width: 45px;
+    border-radius: 100%;
+}
